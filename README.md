@@ -82,6 +82,10 @@ Found a vulnerability? See [SECURITY.md](SECURITY.md).
 
 Community service project, Telkom University. Publications, registered copyright (HKI) and news coverage are listed on the [portfolio](https://ramahrinaldi.id/publications/).
 
+## License
+
+MIT. See [LICENSE](LICENSE).
+
 ## Author
 
 **Ramah Rinaldi Ruslan** — Computer Engineering, Telkom University
