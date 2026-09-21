@@ -1,0 +1,13 @@
+# rahasia & data
+config.php
+.env
+.env.*
+!.env.example
+!config.example.php
+*.zip
+*.bak
+*.sql
+*.log
+*_copy*
+Thumbs.db
+.DS_Store
